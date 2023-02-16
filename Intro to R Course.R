@@ -12,3 +12,5 @@
 # ctrl + L = clear the console, but not actually deleting anything
 
 #Boolean is a variable that takes on two different values: TRUE or FALSE
+
+# (Alt) + (-) = <- 
