@@ -17,3 +17,6 @@
 
 #name_things_like_this, not.like.this
 
+#numeric variables are decimal numbers, integer variables are the single 
+#integers (1, 2, 3..... not 1.0, 2.0, 3.0.....) (1L, 2L, 3L = integers)
+
