@@ -24,4 +24,4 @@
 
 
 
-#######Left off at 1:19:00 in irrs03_day1_session2.mp4
+#######Left off at 00:43:45 in irrs03_day1_session3.mp4
