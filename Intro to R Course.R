@@ -20,4 +20,8 @@
 #numeric variables are decimal numbers, integer variables are the single 
 #integers (1, 2, 3..... not 1.0, 2.0, 3.0.....) (1L, 2L, 3L = integers)
 
+#na.rm = TRUE means that the NA values will be removed from output
+
+
+
 #######Left off at 1:19:00 in irrs03_day1_session2.mp4
