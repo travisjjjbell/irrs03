@@ -19,3 +19,13 @@ data_df <- data.frame(names = c('alice', 'bob', 'charlie'),
                       weight = c(75, 65, 86))
 data_df
 
+# Install packages
+install.packages('tidyverse')
+library('tidyverse')
+
+
+# Reading data ------------------------------------------------------------
+
+
+
+
