@@ -24,7 +24,9 @@ install.packages('tidyverse')
 library('tidyverse')
 
 
+
 # Reading data ------------------------------------------------------------
+anorexia_df <- read_csv("data/anorexia.csv")
 
 
 
