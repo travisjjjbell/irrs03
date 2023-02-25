@@ -1,4 +1,6 @@
-#Tips:
+
+# Tips --------------------------------------------------------------------
+
 #ctrl + 1 = move cursor to script
 
 #ctrl + 2 = move cursor to console
@@ -24,4 +26,15 @@
 
 
 
-#######Left off at 1:29:57 in irrs03_day2_session1.mp4
+# Left off at -------------------------------------------------------------
+
+
+#######Left off at 00:26:25 in irrs03_day2_session3.mp4
+
+
+# Resources ---------------------------------------------------------------
+
+
+##### Gggplot data visualization book by Kieran Healy "Data visualization a Practical Introduction"
+
+
